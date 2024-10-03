@@ -1,0 +1,12 @@
+.custom {
+    display: none;
+
+  }
+
+
+  @media (min-width: 576px) { 
+    .custom {
+        display: block;
+    }
+
+   }
